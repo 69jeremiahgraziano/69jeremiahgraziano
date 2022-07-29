@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @69jeremiahgraziano
+- 👋 Hi, I’m jeremiah graziano
 - 👀 I’m interested in; front end development
 - 🌱 I’m currently learning CSS/JS
 - 💞️ I’m looking to collaborate on ...
